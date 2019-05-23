@@ -1,0 +1,43 @@
+img{
+    width:300px;
+}
+
+p{
+ font-family:Brush Script Std, cursive;
+ color:yellow;
+}
+h1{
+    color:yellow;
+}
+
+body{
+    background-color:orange;
+}
+
+button{
+padding:10px;
+background-color:yellow;
+position: absolute;
+  right: 2px;
+  bottom: 1px;
+  color:blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.submission{
+    display:flex;
+    justify-content:center;
+    flex-direction:column;
+    align-items: center;
+   display:none;
+}
